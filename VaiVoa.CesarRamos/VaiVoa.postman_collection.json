@@ -1,0 +1,69 @@
+{
+	"info": {
+		"_postman_id": "e28c8c94-99f6-436d-9d8d-2b92b043eed4",
+		"name": "VaiVoa",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET",
+			"item": [
+				{
+					"name": "obterPessoa",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:44302/api/pessoacartoes/cesar@gmail.com",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44302",
+							"path": [
+								"api",
+								"pessoacartoes",
+								"cesar@gmail.com"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "POST",
+			"item": [
+				{
+					"name": "geraCartao",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "\"cesar@gmail.com\"\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44302/api/pessoacartoes",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44302",
+							"path": [
+								"api",
+								"pessoacartoes"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
