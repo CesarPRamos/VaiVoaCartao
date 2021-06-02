@@ -1,8 +1,3 @@
-C:\Users\cesar\source\repos\VaiVoa.CesarRamos\VaiVoa.CesarRamos\obj\Debug\netcoreapp3.1\VaiVoa.CesarRamos.csprojAssemblyReference.cache
-C:\Users\cesar\source\repos\VaiVoa.CesarRamos\VaiVoa.CesarRamos\obj\Debug\netcoreapp3.1\VaiVoa.CesarRamos.AssemblyInfoInputs.cache
-C:\Users\cesar\source\repos\VaiVoa.CesarRamos\VaiVoa.CesarRamos\obj\Debug\netcoreapp3.1\VaiVoa.CesarRamos.AssemblyInfo.cs
-C:\Users\cesar\source\repos\VaiVoa.CesarRamos\VaiVoa.CesarRamos\obj\Debug\netcoreapp3.1\VaiVoa.CesarRamos.csproj.CoreCompileInputs.cache
-C:\Users\cesar\source\repos\VaiVoa.CesarRamos\VaiVoa.CesarRamos\obj\Debug\netcoreapp3.1\VaiVoa.CesarRamos.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\cesar\source\repos\VaiVoa.CesarRamos\VaiVoa.CesarRamos\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\cesar\source\repos\VaiVoa.CesarRamos\VaiVoa.CesarRamos\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\cesar\source\repos\VaiVoa.CesarRamos\VaiVoa.CesarRamos\bin\Debug\netcoreapp3.1\VaiVoa.CesarRamos.exe
@@ -51,6 +46,11 @@ C:\Users\cesar\source\repos\VaiVoa.CesarRamos\VaiVoa.CesarRamos\bin\Debug\netcor
 C:\Users\cesar\source\repos\VaiVoa.CesarRamos\VaiVoa.CesarRamos\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\cesar\source\repos\VaiVoa.CesarRamos\VaiVoa.CesarRamos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\cesar\source\repos\VaiVoa.CesarRamos\VaiVoa.CesarRamos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cesar\source\repos\VaiVoa.CesarRamos\VaiVoa.CesarRamos\obj\Debug\netcoreapp3.1\VaiVoa.CesarRamos.csprojAssemblyReference.cache
+C:\Users\cesar\source\repos\VaiVoa.CesarRamos\VaiVoa.CesarRamos\obj\Debug\netcoreapp3.1\VaiVoa.CesarRamos.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\VaiVoa.CesarRamos\VaiVoa.CesarRamos\obj\Debug\netcoreapp3.1\VaiVoa.CesarRamos.AssemblyInfo.cs
+C:\Users\cesar\source\repos\VaiVoa.CesarRamos\VaiVoa.CesarRamos\obj\Debug\netcoreapp3.1\VaiVoa.CesarRamos.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\VaiVoa.CesarRamos\VaiVoa.CesarRamos\obj\Debug\netcoreapp3.1\VaiVoa.CesarRamos.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\cesar\source\repos\VaiVoa.CesarRamos\VaiVoa.CesarRamos\obj\Debug\netcoreapp3.1\staticwebassets\VaiVoa.CesarRamos.StaticWebAssets.Manifest.cache
 C:\Users\cesar\source\repos\VaiVoa.CesarRamos\VaiVoa.CesarRamos\obj\Debug\netcoreapp3.1\staticwebassets\VaiVoa.CesarRamos.StaticWebAssets.xml
 C:\Users\cesar\source\repos\VaiVoa.CesarRamos\VaiVoa.CesarRamos\obj\Debug\netcoreapp3.1\scopedcss\bundle\VaiVoa.CesarRamos.styles.css
